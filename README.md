@@ -7,8 +7,9 @@ In our virtual analogy, the water-ejector activator for each player corresponds 
 
 
 ## Challenges
-- Change number of players
-- 
+- **More than two players** Allow the user to choose how many players and which keys to use. 
+- **Make it interesting** Add function to increase progress in interesting ways...special keystrokes, timing patterns, randomization.
+- **Design** Make the virtual game more analogous to the original.
 
 ## Reference Material
 
