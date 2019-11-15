@@ -10,6 +10,6 @@ In our virtual analogy, the water-ejecting activator for each player corresponds
 
 
 ## Additional Links
-- [Real life example] (https://www.youtube.com/watch?v=MLdcGq2HW4c)
-- [Real life example] (https://www.youtube.com/watch?v=7GVAFrXmu-M)
-- [Yet another real life example] (https://www.youtube.com/watch?v=6K34Vw2CQT0)
+- [Real life example](https://www.youtube.com/watch?v=MLdcGq2HW4c)
+- [Real life example](https://www.youtube.com/watch?v=7GVAFrXmu-M)
+- [Yet another real life example](https://www.youtube.com/watch?v=6K34Vw2CQT0)
